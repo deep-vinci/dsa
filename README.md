@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0231-power-of-two](https://github.com/deep-vinci/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/deep-vinci/dsa/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
