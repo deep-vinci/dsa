@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deep-vinci/dsa/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/deep-vinci/dsa/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deep-vinci/dsa/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/deep-vinci/dsa/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
