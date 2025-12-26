@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -65,8 +66,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deep-vinci/dsa/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deep-vinci/dsa/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
