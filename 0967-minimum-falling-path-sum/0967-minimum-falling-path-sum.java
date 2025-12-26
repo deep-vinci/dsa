@@ -1,6 +1,6 @@
 class Solution {
     public int pathSum(int[][] grid, int[][] dp, int m, int n) {
-        if (n < 0 || n >= grid[0].length) return (int)1e9; 
+        if (n < 0 || n >= grid[0].length) return Integer.MAX_VALUE; 
         
         if (m == grid.length - 1) return grid[m][n];
 
