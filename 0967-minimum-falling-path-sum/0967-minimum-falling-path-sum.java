@@ -3,9 +3,9 @@ class Solution {
         if (n < 0 || n >= grid[0].length) return Integer.MAX_VALUE; 
         
         if (m == grid.length - 1) return grid[m][n];
-
+   
         if (dp[m][n] != Integer.MIN_VALUE) return dp[m][n];
-
+    
         int leftDiag = pathSum(grid, dp, m + 1, n - 1);
         int straightDown = pathSum(grid, dp, m + 1, n);
         int rightDiag = pathSum(grid, dp, m + 1, n + 1);
