@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/deep-vinci/dsa/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
