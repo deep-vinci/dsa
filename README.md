@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
+| [1250-longest-common-subsequence](https://github.com/deep-vinci/dsa/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/deep-vinci/dsa/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/deep-vinci/dsa/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
