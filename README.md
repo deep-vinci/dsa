@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep-vinci/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deep-vinci/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep-vinci/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/deep-vinci/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deep-vinci/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deep-vinci/dsa/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
