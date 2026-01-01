@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
+| [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -121,4 +122,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
+| [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
