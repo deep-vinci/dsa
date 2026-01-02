@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
@@ -124,15 +125,21 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
