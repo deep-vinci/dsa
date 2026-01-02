@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deep-vinci/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/deep-vinci/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
+| [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
+| [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
 ## Breadth-First Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
+| [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
