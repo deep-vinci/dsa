@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
