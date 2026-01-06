@@ -128,11 +128,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
@@ -144,11 +146,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
