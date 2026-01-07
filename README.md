@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -125,9 +129,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 ## Graph
