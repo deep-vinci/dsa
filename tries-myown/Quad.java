@@ -7,7 +7,7 @@ class Quad {
         double a, b, c, d, r1, r2;
 
         System.out.println("Enter a: ");
-        a = scc xfdddzzzzzzzzssssssssssssssssssdddddddddddddddddddddddt();
+        a = sc.nextDouble();
         System.out.println("Enter b: ");
         b = sc.nextInt();
         System.out.println("Enter c: ");

@@ -1,25 +1,7 @@
+package graphs;
 import java.util.*;
 
-class BFS {
-    static int vis[];
-    public static void BFSTraversal(ArrayList<ArrayList<Integer>> adj, int n) {
-        Queue<Integer> queue = new LinkedList<>();
-
-        queue.add(n);
-        vis[n] = 1;
-        while (!queue.isEmpty()) {
-            int node = queue.poll();
-            System.out.println(node);
-
-            for (int it : adj.get(node)) {
-                if (vis[it] == 0) {
-                    vis[it] = 1;
-                    queue.add(it);
-                }     
-            }
-        }
-    }
-
+class Adj {
     public static void main(String[] args) {
         int[][] edges = {
             {0, 1},
@@ -45,7 +27,5 @@ class BFS {
         }
 
         System.out.println(adj);
-        vis = new int[n];
-        BFSTraversal(adj, 0);
     }
 }
