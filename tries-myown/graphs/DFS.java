@@ -3,16 +3,16 @@ import java.util.*;
 
 class DFS {
     static int vis[];
+
     public static void DFSTraversal(ArrayList<ArrayList<Integer>> adj, int n) {
         vis[n] = 1;
         System.out.println(n);
-        for (int it : adj.get(n)) {
-            if (vis[it] == 0) {
-                DFSTraversal(adj, it);
+        for (int x : adj.get(n)) {
+            if (vis[x] == 0) {
+                DFSTraversal(adj, x);
             }
         }
     }
-
     public static void main(String[] args) {
         int[][] edges = {
             {0, 1},
