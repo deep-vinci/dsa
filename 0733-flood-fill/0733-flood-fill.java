@@ -1,37 +1,32 @@
 class Solution {
-    public void dfs(int[][] image, int sr, int sc, int color, int newColor) {
-        if (sr >= image.length || sr < 0 || sc >= image[0].length || sc < 0 || image[sr][sc] == newColor || image[sr][sc] != color) return;
+    static int vis[][];
+    static int[] dx = {-1, 0, 1, 0};
+    static int[] dy = {0, 1, 0, -1};
 
-        image[sr][sc] = newColor;
-        dfs(image , sr+1 , sc ,color ,newColor);
-        dfs(image , sr-1 , sc,color ,newColor);
-        dfs(image , sr , sc+1,color ,newColor);
-        dfs(image , sr , sc-1,color ,newColor);
+    public int[][] dfs(int[][] vis, int[][] image, int x, int y, int c, int m, int n, int cc) {
+        vis[x][y] = 1;
+        image[x][y] = c;
 
-    }
+        for (int i = 0; i < 4; i++) {
+            int nx = x + dx[i];
+            int ny = y + dy[i];
 
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        dfs(image, sr, sc, image[sr][sc], color);
+            if (nx >= 0 && nx < m && ny >= 0 && ny < n) {
+                if (vis[nx][ny] == 0 && image[nx][ny] == cc) {
+                    image[nx][ny] = c;
+                    dfs(vis, image, nx, ny, c, m, n,cc);
+                }
+            }
+        }
+
         return image;
     }
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int m = image.length;
+        int n = image[0].length;
+
+        vis = new int[m][n];    
+        int cc = image[sr][sc];
+        return dfs(vis, image, sr, sc, color, m, n, cc);
+    }
 }
-
-
-// class Solution {
-// public:
-//     void dfs(vector<vector<int>> &image , int sr , int sc,int color , int newcolor){
-
-//         if(sr >= image.size() || sr < 0 || sc >= image[0].size() || sc < 0 || image[sr][sc] == newcolor || image[sr][sc]!=color){
-//             return;
-//         }
-//         image[sr][sc] = newcolor;
-//         dfs(image , sr+1 , sc ,color ,newcolor);
-//         dfs(image , sr-1 , sc,color ,newcolor);
-//         dfs(image , sr , sc+1,color ,newcolor);
-//         dfs(image , sr , sc-1,color ,newcolor);
-//     }
-//     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-//         dfs(image , sr,sc,image[sr][sc],color);
-//         return image;
-//     }
-// };
