@@ -3,22 +3,20 @@
 
     class BFS {
         static int vis[];
+
         public static void BFSTraversal(ArrayList<ArrayList<Integer>> adj, int n) {
             Queue<Integer> queue = new LinkedList<>();
-
-            queue.add(n);   
             vis[n] = 1;
+            queue.add(n);
 
-            
             while(!queue.isEmpty()) {
-                int x = queue.poll();
+                int e = queue.poll();
 
-                System.out.println(x);
-
-                for (int y : adj.get(x)) {
-                    if (vis[y] == 0) {
-                        vis[y] = 1;
-                        queue.add(y);
+                System.out.print(e);
+                for (int x : adj.get(e)) {
+                    if (vis[x] == 0) {
+                        vis[x] = 1;
+                        queue.add(x);
                     }
                 }
             }
