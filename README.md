@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/deep-vinci/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deep-vinci/dsa/tree/master/0583-delete-operation-for-two-strings) |
