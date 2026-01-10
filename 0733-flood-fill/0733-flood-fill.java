@@ -26,7 +26,7 @@ class Solution {
         int n = image[0].length;
 
         vis = new int[m][n];    
-        int cc = image[sr][sc];
+        int cc = image[sr][sc]; // rec the original color
         return dfs(vis, image, sr, sc, color, m, n, cc);
     }
 }
