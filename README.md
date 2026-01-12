@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/deep-vinci/dsa/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -181,4 +182,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
