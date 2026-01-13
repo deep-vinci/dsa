@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/deep-vinci/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/deep-vinci/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/deep-vinci/dsa/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/deep-vinci/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/deep-vinci/dsa/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/deep-vinci/dsa/tree/master/0207-course-schedule) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/deep-vinci/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -160,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/deep-vinci/dsa/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/deep-vinci/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deep-vinci/dsa/tree/master/2121-find-if-path-exists-in-graph) |
@@ -175,4 +182,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deep-vinci/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
