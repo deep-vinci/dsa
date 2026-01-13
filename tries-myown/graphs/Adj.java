@@ -10,22 +10,20 @@ class Adj {
             {2, 3},
             {2, 4}
         };
-
-        int n = 5;
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
+        for (int i = 0; i < 5; i++) adj.add(new ArrayList<>());
 
         for (int i = 0; i < edges.length; i++) {
             int u = edges[i][0];
             int v = edges[i][1];
 
             adj.get(u).add(v);
-            adj.get(v).add(u); // undirected
+            adj.get(v).add(u);
         }
 
-        System.out.println(adj);
+        for (int i = 0; i < adj.size(); i++) { 
+            System.out.println(i + " -> " + adj.get(i));
+        }
     }
 }
