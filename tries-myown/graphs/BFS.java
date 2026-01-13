@@ -4,24 +4,25 @@
     class BFS {
         static int vis[];
 
-        public static void BFSTraversal(ArrayList<ArrayList<Integer>> adj, int n) {
-            Queue<Integer> queue = new LinkedList<>();
+        public static void BFS(ArrayList<ArrayList<Integer>> adj, int n) {
+            Queue<Integer> q = new LinkedList<>();
+
+            q.add(n);
             vis[n] = 1;
-            queue.add(n);
 
-            while(!queue.isEmpty()) {
-                int e = queue.poll();
+            while(!q.isEmpty()) {
+                int top = q.poll();
 
-                System.out.print(e);
-                for (int x : adj.get(e)) {
-                    if (vis[x] == 0) {
-                        vis[x] = 1;
-                        queue.add(x);
+                System.out.println(top);
+                for (int el : adj.get(top)) {
+                    if (vis[el] == 0) {
+                        vis[el] = 1;
+                        q.add(el);
                     }
                 }
             }
-        }
 
+        }
         public static void main(String[] args) {
             int[][] edges = {
                 {0, 1},
@@ -48,6 +49,7 @@
 
             // System.out.println(adj);
             vis = new int[n];
-            BFSTraversal(adj, 0);
+            // BFSTraversal(adj, 0);
+            BFS(adj, 0);
         }
     }
