@@ -44,7 +44,7 @@ class GridBFS {
             System.out.println();
         }
         System.out.println();
-        System.out.println("After (visited marked with \u25A0):");
+        System.out.println("visited marked with \u25A0");
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (edges[i][j] == 1 && vis[i][j] == 1) {
@@ -85,7 +85,6 @@ class GridBFS {
                 }
             }
         }
-        // show before/after (before = input grid, after marks visited cells with 'V')
         displayBeforeAfter(edges);
         // BFS(edges, 0, 0, m, n);
     }
