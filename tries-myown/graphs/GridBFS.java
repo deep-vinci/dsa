@@ -24,7 +24,6 @@ class GridBFS {
 
                 if (ix >= 0 && ix < m && iy >= 0 && iy < n) {
                     if (vis[ix][iy] == 0 && edges[ix][iy] == 1) {
-                        System.out.println("discovered: " + Arrays.toString(new int[]{ix, iy}));
                         vis[ix][iy] = 1;
                         q.add(new int[]{ix, iy});
                     }
@@ -33,12 +32,43 @@ class GridBFS {
         }
 
     }
+    
+    public static void displayBeforeAfter(int[][] edges) {
+        System.out.println("Before:");
+        int m = edges.length;
+        int n = edges[0].length;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print(edges[i][j] == 1 ? "1 " : ". ");
+            }
+            System.out.println();
+        }
+        System.out.println();
+        System.out.println("After (visited marked with \u25A0):");
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (edges[i][j] == 1 && vis[i][j] == 1) {
+                    System.out.print("\u25A0 ");
+                } else if (edges[i][j] == 1) {
+                    System.out.print("1 ");
+                } else {
+                    System.out.print("  ");
+                }
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
     public static void main(String[] args) {
         int[][] edges = {
-            {0, 1, 0, 1},
-            {1, 0, 1, 0},
-            {0, 1, 0, 1},
-            {1, 0, 1, 0}
+            {1, 1, 1, 0, 0, 0, 0, 0},
+            {0, 0, 1, 1, 1, 1, 0, 0},
+            {0, 0, 0, 0, 0, 1, 1, 1},
+            {1, 1, 1, 1, 0, 0, 0, 1},
+            {1, 0, 0, 1, 1, 1, 0, 1},
+            {1, 1, 0, 0, 0, 1, 1, 1},
+            {0, 1, 1, 1, 0, 0, 0, 1},
+            {0, 0, 0, 1, 1, 1, 1, 1}
         };
 
 
@@ -51,11 +81,12 @@ class GridBFS {
             for (int j = 0; j < n; j++) {
                 if (edges[i][j] == 1 && vis[i][j] == 0) {
                     bfs(edges, i, j, m, n);
-                    break;
+                    // break;
                 }
             }
         }
-
+        // show before/after (before = input grid, after marks visited cells with 'V')
+        displayBeforeAfter(edges);
         // BFS(edges, 0, 0, m, n);
     }
 }
