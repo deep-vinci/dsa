@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep-vinci/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deep-vinci/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
