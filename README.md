@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deep-vinci/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/deep-vinci/dsa/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/deep-vinci/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deep-vinci/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
@@ -203,17 +204,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deep-vinci/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/deep-vinci/dsa/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deep-vinci/dsa/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Queue
