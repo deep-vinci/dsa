@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deep-vinci/dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/deep-vinci/dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deep-vinci/dsa/tree/master/0066-plus-one) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0016-3sum-closest](https://github.com/deep-vinci/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deep-vinci/dsa/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deep-vinci/dsa/tree/master/0066-plus-one) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
