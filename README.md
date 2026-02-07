@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/deep-vinci/dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/deep-vinci/dsa/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/deep-vinci/dsa/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/deep-vinci/dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
