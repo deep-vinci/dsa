@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deep-vinci/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/deep-vinci/dsa/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deep-vinci/dsa/tree/master/0424-longest-repeating-character-replacement) |
