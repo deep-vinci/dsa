@@ -4,8 +4,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/deep-vinci/dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/deep-vinci/dsa/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/deep-vinci/dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/deep-vinci/dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/deep-vinci/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/deep-vinci/dsa/tree/master/0326-power-of-three) |
@@ -25,35 +27,54 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/deep-vinci/dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/deep-vinci/dsa/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/deep-vinci/dsa/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deep-vinci/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/deep-vinci/dsa/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-vinci/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/deep-vinci/dsa/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/deep-vinci/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/deep-vinci/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/deep-vinci/dsa/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/deep-vinci/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/deep-vinci/dsa/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/deep-vinci/dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/deep-vinci/dsa/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/deep-vinci/dsa/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deep-vinci/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deep-vinci/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deep-vinci/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/deep-vinci/dsa/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/deep-vinci/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/deep-vinci/dsa/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/deep-vinci/dsa/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/deep-vinci/dsa/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/deep-vinci/dsa/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/deep-vinci/dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/deep-vinci/dsa/tree/master/2138-sum-of-beauty-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -62,11 +83,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/deep-vinci/dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/deep-vinci/dsa/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/deep-vinci/dsa/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/deep-vinci/dsa/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -109,12 +134,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deep-vinci/dsa/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/deep-vinci/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deep-vinci/dsa/tree/master/0064-minimum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/deep-vinci/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/deep-vinci/dsa/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/deep-vinci/dsa/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/deep-vinci/dsa/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/deep-vinci/dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/deep-vinci/dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,7 +167,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deep-vinci/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/deep-vinci/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/deep-vinci/dsa/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/deep-vinci/dsa/tree/master/0621-task-scheduler) |
+| [0940-fruit-into-baskets](https://github.com/deep-vinci/dsa/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deep-vinci/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/deep-vinci/dsa/tree/master/1039-find-the-town-judge) |
 ## Graph
@@ -185,13 +217,34 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deep-vinci/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/deep-vinci/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/deep-vinci/dsa/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/deep-vinci/dsa/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deep-vinci/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/deep-vinci/dsa/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/deep-vinci/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/deep-vinci/dsa/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/deep-vinci/dsa/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
